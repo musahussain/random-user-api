@@ -1,5 +1,6 @@
-# This is a Random user generator api 
+# This is a Random user generator api
 
+## [live link](https://peaceful-plains-32911.herokuapp.com/)
 
 ## There are multiple endpoints in this api
 
